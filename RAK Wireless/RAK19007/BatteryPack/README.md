@@ -5,6 +5,7 @@ Battery Pack with rotary lock (see image attached)
 
 File Format: Sketchup </br>
 *Discontinued*</br>
+License: CC BY-NC-SA (https://creativecommons.org/licenses/by-nc-sa/4.0/)</br>
 </br>
 </br>
 # Bill of materials
