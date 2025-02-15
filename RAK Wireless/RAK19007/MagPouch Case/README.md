@@ -1,14 +1,22 @@
-# LoRa-Transceiver-Case
-Cases / enclosures for LoRa Transceiver RAK19007</br>
-Sized to fit 5.56mm and 7.62mm magazine Molle / PALS pouches
+# JUGGERNAUT System - LoRa Transceiver Case
+###Sumary
+The **JUGGERNAUT System** features a set of enclosures and parts to integrate LoRa-Transceivers, Smartphones and Antennas into your tactical equipment setup by mounting the individual components to your Molle / PALS System.
 
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+File Format: Sketchup, STL
 
-File Format: Sketchup and STL </br>
-</br>
-License: CC BY-NC-SA (https://creativecommons.org/licenses/by-nc-sa/4.0/)</br>
-</br>
-</br>
-# Bill of materials
+###LoRa Transceiver Case
+The Transceiver Case is designed for the [RAKWireless WisBlock Meshtastic Starter Kit](https://store.rakwireless.com/products/wisblock-meshtastic-starter-kit?variant=43884034621638), featuring the **RAK4631** Core Module, **RAK19007** Base Board, **RAK1921** OLED Display and the **RAK12500** GNSS Module to fit into 5.56mm and 7.62mm Molle / PALS magazine pouches.
+
+Fully assembled, the case features:
+* Qi wireless charging
+* Pogopin connector for docking station charging
+* USB-C fast charging
+* Battery status indicator
+
+##This site is Work-In-Progress
+
+#Bill of materials
 - RAKWireless Meshtastic Starter Kit incl. RAK19007 Board, RAK4631 Core, GNSS Module, Antenna and Display
 - AZDelivery KY-004 Taster Modul (https://www.amazon.de/dp/B07ZTQZP9G?th=1)
 - Aideepen TC4056 USB-C charging board (https://www.amazon.de/dp/B0BZSB3SBN?th=1)
