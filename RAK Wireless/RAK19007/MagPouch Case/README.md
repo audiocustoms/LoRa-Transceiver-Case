@@ -15,7 +15,7 @@ Fully assembled, the case features:
 * Battery status indicator
 </br>
 </br>
-**Table of Contents**
+** Table of Contents **
 
 [TOCM]
 
