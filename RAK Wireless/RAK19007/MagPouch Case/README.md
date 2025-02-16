@@ -2,7 +2,7 @@
 ### Sumary
 The **JUGGERNAUT System** features a set of enclosures and parts to integrate LoRa-Transceivers, Smartphones and Antennas into your tactical equipment setup by mounting the individual components to your Molle / PALS System.
 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</br>
 File Format: Sketchup, STL
 
 ### LoRa Transceiver Case
@@ -15,21 +15,19 @@ Fully assembled, the case features:
 * Battery status indicator
 </br>
 </br>
-
 ##### Table of Contents  
 [Files](#Files)  
 [Emphasis](#emphasis)  
 </br>
 <a name="Files"/>
 ## Files
-
-* Case_Bottom ([SKP](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Sketchup/Case_Bottom.skp) | [STL](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/STL/Case_Bottom.stl))
+* Case_Bottom
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Bottom_01.jpg)
-* Case_Bottom_noPogopin ([SKP](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Sketchup/Case_Bottom_noPogopin.skp) | [STL](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/STL/Case_Bottom_noPogopin.stl))
-* Case_Top ([SKP](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Sketchup/Case_Top.skp) | [STL](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/STL/Case_Top.stl))
-* Case_Top_NoBatteryIndicator ([SKP](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Sketchup/Case_Top_noBatteryIndicator.skp) | [STL](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/STL/Case_Top_noBatteryIndicator.stl))
-* Rack_RAK19007+GPS+BT ([SKP](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Sketchup/Rack_RAK19007%2BGPS%2BBT.skp) | [STL](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/STL/Rack_RAK19007%2BGPS%2BBT.stl))
-* Rack_TC4056+Qi-Charger ([SKP](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Sketchup/Rack_TC4056%2BQi-Charger.skp) | [STL](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/STL/Rack_TC4056%2BQi-Charger.stl))
+* Case_Bottom_noPogopin
+* Case_Top
+* Case_Top_NoBatteryIndicator
+* Rack_RAK19007+GPS+BT
+* Rack_TC4056+Qi-Charger
 
 # This site is Work-In-Progress
 
