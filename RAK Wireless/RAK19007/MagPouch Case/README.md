@@ -16,12 +16,10 @@ Fully assembled, the case features:
 </br>
 </br>
 
-# Table of Contents  
+##### Table of Contents  
 [Files](#Files)  
 [Emphasis](#emphasis)  
-
-
- 
+...snip...    
 <a name="Files"/>
 ## Files
 
