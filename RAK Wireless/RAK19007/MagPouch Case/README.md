@@ -9,7 +9,9 @@ Fully assembled, the case features:
 * Qi wireless charging
 * Pogopin connector for docking station charging
 * USB-C fast charging
-* Battery status indicator
+* Battery status indicator</br></br>
+For more information about Meshtastic, visit [meshtastic.org](https://meshtastic.org/).
+</br></br>
 <a name="top"></a>
 ## **Table of Content**
 [Files](#Files)</br>
