@@ -14,28 +14,40 @@ Fully assembled, the case features:
 <a name="Files"></a>
 ## Files
 [Back](#top)
-* Case_Bottom</br></br>
+* Case_Bottom
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Bottom_01.jpg)
-* Case_Bottom_noPogopin</br></br>
+* Case_Bottom_noPogopin
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Bottom_noPogopin_01.jpg)
-* Case_Top</br></br>
+* Case_Top
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Top_01.jpg)
-* Case_Top_NoBatteryIndicator</br></br>
+* Case_Top_NoBatteryIndicator
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Top_noBatteryIndicator_01.jpg)
-* Rack_RAK19007+GPS+BT</br></br>
+* Rack_RAK19007+GPS+BT
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Rack_RAK19007%2BGPS%2BBT_01.jpg)
-* Rack_TC4056+Qi-Charger</br></br>
+* Rack_TC4056+Qi-Charger
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Rack_TC4056%2BQi-Charger.jpg)
 <a name="bom"></a>
 ## Bill of materials
-[Back](#top)
-- RAKWireless Meshtastic Starter Kit incl. RAK19007 Board, RAK4631 Core, GNSS Module, Antenna and Display
-- AZDelivery KY-004 Taster Modul (https://www.amazon.de/dp/B07ZTQZP9G?th=1)
-- Aideepen TC4056 USB-C charging board (https://www.amazon.de/dp/B0BZSB3SBN?th=1)
-- 3,7V 3000mAh LiPo battery (https://www.amazon.de/dp/B0D56KJ4C1)
-- Sliding switch (https://www.amazon.de/dp/B0BTM3WQXN?th=1)
-- 3-Pin Pogopin connector set (https://www.amazon.de/dp/B0B1771YT4)
-- Battery status indicator (https://de.aliexpress.com/item/1005007063123600.html)
-- Qi Wireless charging board (https://de.aliexpress.com/item/1005006476972664.html)
-- Melt-in thread M3 (https://www.amazon.de/dp/B0BZVGQ91H)
-- Collection of M2 / M3 screws
+[Back](#top)</br></br>
+**Required**
+- 1x [WisBlock Meshtastic Starter Kit](https://store.rakwireless.com/products/wisblock-meshtastic-starter-kit?variant=43884034621638)  (RAK19007 Base Board, RAK1921 OLED Display, RAK12500 GNSS Module)
+- 1x [AZDelivery KY-004 button module](https://www.amazon.de/AZDelivery-KY-004-Taster-Modul-Parent/dp/B089QK4XLR?th=1)
+- 1x [Sliding switch (19.5 x 4.3mm)](https://www.amazon.de/dp/B0BTM3WQXN)
+- 1x [Aideepen TC4056 USB-C charging board](https://www.amazon.de/dp/B0BZSB3SBN)
+- 1x [3,7V 3000mAh LiPo battery (115 x 60 x 10mm)](https://www.amazon.de/dp/B0D56KJ4C1)
+- 11x [Melt-in thread M3x6mm](https://www.amazon.de/dp/B0BZVGQ91H)
+- 11x Hexagon Socket Cylinder Head Screws M3
+- 6x Pan Head Self Tapping Screws 2x4mm
+- 6x Pan Head Self Tapping Screws 2x5mm
+- 1x [Pair Micro JST SH1.25 4-pin connector](https://www.amazon.de/vuniversum-1-25mm-Female-Stecker-Kupplung/dp/B0BNF8949T)
+- 2x [Micro JST PH2.0 2-pin connector female](https://www.amazon.de/St%C3%BCck-JST-PH-Stecker-Buchsenkabel-Inductrix/dp/B07NWD5NTN)
+- 1x [Micro JST PH2.0 2-pin connector male](https://www.amazon.de/St%C3%BCck-JST-PH-Stecker-Buchsenkabel-Inductrix/dp/B07NWD5NTN)
+- 2x [Micro JST MX1.25 2-pin connector female](https://www.amazon.de/Elektronik-M%C3%A4nnlichen-Weiblichen-Steckverbinder-Stecker/dp/B06WGM9W7S)
+- 1x [Micro JST MX1.25 2-pin connector male](https://www.amazon.de/Elektronik-M%C3%A4nnlichen-Weiblichen-Steckverbinder-Stecker/dp/B06WGM9W7S)
+</br>
+
+**Optional**
+- 1x [3-Pin Pogopin connector set](https://www.amazon.de/dp/B0B1771YT4)
+- 1x [Battery status indicator](https://de.aliexpress.com/item/1005007063123600.html)
+- 1x [Qi Wireless charging board](https://de.aliexpress.com/item/1005006476972664.html)
+- 3x [Pair Micro JST MX1.25 2-pin connector](https://www.amazon.de/Elektronik-M%C3%A4nnlichen-Weiblichen-Steckverbinder-Stecker/dp/B06WGM9W7S)
