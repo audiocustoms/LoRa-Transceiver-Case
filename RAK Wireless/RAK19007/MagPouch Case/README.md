@@ -11,9 +11,23 @@ Fully assembled, the case features:
 * USB-C fast charging
 * Battery status indicator
 <a name="top"></a>
-### **Table of Content**
+## **Table of Content**
 [Files](#Files)</br>
-[Bill of Materials](#bom)
+[Bill of Materials](#bom)</br>
+[Assembly](#assembly)</br>
+[- Button Module](#button)</br>
+[- Sliding Switch](#switch)</br>
+[- SMA Antenna Connector](#antenna)</br>
+[- TC4056 USB-C Charching Board](#tc5046)</br>
+[- Rack Assembly (Charging Boards)](#chargingboards)</br>
+[- Pogopin Connector](#pogopin)</br>
+[- OLED Display (Preperation)](#oledprep)</br>
+[- RAK19007 Board (Preperation)](#rak19007)</br>
+[- Rack Assembly (RAK Board)](#rakassembly)</br>
+[- Power Supply Wiring](#wiring)</br>
+[- Battery Placement](#battery)</br>
+[- Top Cover Assembly](#topcover)</br>
+</br>
 <a name="Files"></a>
 ## Files
 [Back](#top)
@@ -54,3 +68,7 @@ Fully assembled, the case features:
 - 1x [Battery status indicator](https://de.aliexpress.com/item/1005007063123600.html)
 - 1x [Qi Wireless charging board](https://de.aliexpress.com/item/1005006476972664.html)
 - 3x [Pair Micro JST MX1.25 2-pin connector](https://www.amazon.de/Elektronik-M%C3%A4nnlichen-Weiblichen-Steckverbinder-Stecker/dp/B06WGM9W7S)
+</br>
+
+<a name="assembly"></a>
+## Assembly
