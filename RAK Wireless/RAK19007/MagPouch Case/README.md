@@ -16,13 +16,6 @@ Fully assembled, the case features:
 </br>
 </br>
 
-##### Table of Contents
-** Table of Contents **
-
-[TOCM]
-
-[TOC]
-
 # File List
 * Case_Bottom ([SKP](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Sketchup/Case_Bottom.skp) | [STL](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/STL/Case_Bottom.stl))
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Bottom_01.jpg)
