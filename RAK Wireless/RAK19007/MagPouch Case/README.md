@@ -1,11 +1,5 @@
 # JUGGERNAUT System - LoRa Transceiver Case
-### Sumary
-The **JUGGERNAUT System** features a set of enclosures and parts to integrate LoRa-Transceivers, Smartphones and Antennas into your tactical equipment setup by mounting the individual components to your Molle / PALS System.
 
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</br>
-File Format: Sketchup, STL
-
-### LoRa Transceiver Case
 The Transceiver Case is designed for the [RAKWireless WisBlock Meshtastic Starter Kit](https://store.rakwireless.com/products/wisblock-meshtastic-starter-kit?variant=43884034621638), featuring the **RAK4631** Core Module, **RAK19007** Base Board, **RAK1921** OLED Display and the **RAK12500** GNSS Module to fit into 5.56mm and 7.62mm Molle / PALS magazine pouches.
 
 Fully assembled, the case features:
@@ -14,6 +8,10 @@ Fully assembled, the case features:
 * USB-C fast charging
 * Battery status indicator
 
+### **Table of Content**
+[Files](#Files)</br>
+[Bill of Materials](#bom)
+<a name="Files"></a>
 ## Files
 * Case_Bottom</br></br>
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Bottom_01.jpg)
@@ -27,6 +25,7 @@ Fully assembled, the case features:
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Rack_RAK19007%2BGPS%2BBT_01.jpg)
 * Rack_TC4056+Qi-Charger</br></br>
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Rack_TC4056%2BQi-Charger.jpg)
+<a name="bom"></a>
 ## Bill of materials
 - RAKWireless Meshtastic Starter Kit incl. RAK19007 Board, RAK4631 Core, GNSS Module, Antenna and Display
 - AZDelivery KY-004 Taster Modul (https://www.amazon.de/dp/B07ZTQZP9G?th=1)
