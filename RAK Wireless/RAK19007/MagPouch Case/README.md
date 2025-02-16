@@ -15,8 +15,10 @@ Fully assembled, the case features:
 * Battery status indicator
 </br>
 </br>
-[Files](#Files)
-</br>
+##### Table of Contents  
+[Files](#Files)  
+[Emphasis](#emphasis)  
+...snip...    
 <a name="Files"/>
 ## Files
 * Case_Bottom
