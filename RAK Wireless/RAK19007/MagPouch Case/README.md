@@ -15,11 +15,7 @@ Fully assembled, the case features:
 * Battery status indicator
 </br>
 </br>
-##### Table of Contents  
-[Files](#Files)  
-[Emphasis](#emphasis)  
-</br>
-<a name="Files"/>
+
 ## Files
 * Case_Bottom
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Bottom_01.jpg)
