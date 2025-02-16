@@ -13,11 +13,7 @@ Fully assembled, the case features:
 * Pogopin connector for docking station charging
 * USB-C fast charging
 * Battery status indicator
-##### Table of Contents  
-[Files](#Files)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="Files"/>
+
 ## Files
 * Case_Bottom</br></br>
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Bottom_01.jpg)
@@ -31,10 +27,7 @@ Fully assembled, the case features:
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Rack_RAK19007%2BGPS%2BBT_01.jpg)
 * Rack_TC4056+Qi-Charger</br></br>
 ![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Rack_TC4056%2BQi-Charger.jpg)
-
-# This site is Work-In-Progress
-
-# Bill of materials
+## Bill of materials
 - RAKWireless Meshtastic Starter Kit incl. RAK19007 Board, RAK4631 Core, GNSS Module, Antenna and Display
 - AZDelivery KY-004 Taster Modul (https://www.amazon.de/dp/B07ZTQZP9G?th=1)
 - Aideepen TC4056 USB-C charging board (https://www.amazon.de/dp/B0BZSB3SBN?th=1)
