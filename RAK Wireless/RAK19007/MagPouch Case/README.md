@@ -72,3 +72,53 @@ Fully assembled, the case features:
 
 <a name="assembly"></a>
 ## Assembly
+[Back](#top)</br></br>
+Work in progress
+<a name="button"></a>
+### Button Module
+[Back](#top)</br></br>
+Work in progress
+<a name="switch"></a>
+### Sliding Switch
+[Back](#top)</br></br>
+Work in progress
+<a name="antenna"></a>
+### SMA Antenna Connector
+[Back](#top)</br></br>
+Work in progress
+<a name="tc5046"></a>
+### TC4056 USB-C Charching Board
+[Back](#top)</br></br>
+Work in progress
+<a name="chargingboards"></a>
+### Rack Assembly (Charging Boards)
+[Back](#top)</br></br>
+Work in progress
+<a name="pogopin"></a>
+### Pogopin Connector
+[Back](#top)</br></br>
+Work in progress
+<a name="oledprep"></a>
+### OLED Display (Preperation)
+[Back](#top)</br></br>
+Work in progress
+<a name="rak19007"></a>
+### RAK19007 Board (Preperation)
+[Back](#top)</br></br>
+Work in progress
+<a name="rakassembly"></a>
+### Rack Assembly (RAK Board)
+[Back](#top)</br></br>
+Work in progress
+<a name="wiring"></a>
+### Power Supply Wiring
+[Back](#top)</br></br>
+Work in progress
+<a name="battery"></a>
+### Battery Placement
+[Back](#top)</br></br>
+Work in progress
+<a name="topcover"></a>
+### Top Cover Assembly
+[Back](#top)</br></br>
+Work in progress
