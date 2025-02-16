@@ -15,12 +15,7 @@ Fully assembled, the case features:
 * Battery status indicator
 </br>
 </br>
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+
 ## Files
 * Case_Bottom
 * Case_Bottom_noPogopin
