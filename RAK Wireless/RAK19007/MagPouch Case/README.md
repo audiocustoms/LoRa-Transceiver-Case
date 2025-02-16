@@ -1,5 +1,8 @@
 # JUGGERNAUT System - LoRa Transceiver Case
 
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_002706.jpg.png)
+</br>
+</br>
 The Transceiver Case is designed for the [RAKWireless WisBlock Meshtastic Starter Kit](https://store.rakwireless.com/products/wisblock-meshtastic-starter-kit?variant=43884034621638), featuring the **RAK4631** Core Module, **RAK19007** Base Board, **RAK1921** OLED Display and the **RAK12500** GNSS Module to fit into 5.56mm and 7.62mm Molle / PALS magazine pouches.
 
 Fully assembled, the case features:
