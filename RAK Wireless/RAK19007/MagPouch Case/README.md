@@ -16,10 +16,11 @@ Fully assembled, the case features:
 </br>
 </br>
 ##### Table of Contents  
-[Files](#Files)  
+[Headers](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="Files"/>
+<a name="headers"/>
+## Headers
 ## Files
 * Case_Bottom
 * Case_Bottom_noPogopin
