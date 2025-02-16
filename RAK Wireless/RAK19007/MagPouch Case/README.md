@@ -15,6 +15,7 @@ Fully assembled, the case features:
 [Files](#Files)</br>
 [Bill of Materials](#bom)</br>
 [Assembly](#assembly)</br>
+[- Melt-in threads](#melt)</br>
 [- Button Module](#button)</br>
 [- Sliding Switch](#switch)</br>
 [- SMA Antenna Connector](#antenna)</br>
@@ -74,51 +75,108 @@ Fully assembled, the case features:
 ## Assembly
 [Back](#top)</br></br>
 Work in progress
+<a name="melt"></a>
+### Melt-In Threads
+[Back](#top)</br></br>
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_215723.jpg.png?raw=true)
 <a name="button"></a>
 ### Button Module
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_224130.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_224552.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_224605.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_224646.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_224754.jpg.png?raw=true)
 <a name="switch"></a>
 ### Sliding Switch
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_224906.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_225005.jpg.png?raw=true)
 <a name="antenna"></a>
 ### SMA Antenna Connector
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_225054.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_225154.jpg.png?raw=true)
 <a name="tc5046"></a>
 ### TC4056 USB-C Charching Board
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_225624.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_230336.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_230535.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_230803.jpg.png?raw=true)
 <a name="chargingboards"></a>
 ### Rack Assembly (Charging Boards)
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_231115.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_231122.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_231208.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_231507.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_231559.jpg.png?raw=true)
 <a name="pogopin"></a>
 ### Pogopin Connector
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_231754.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_232354.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_232402.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_232434.jpg.png?raw=true)
 <a name="oledprep"></a>
 ### OLED Display (Preperation)
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_232826.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_233224.jpg.png?raw=true)
 <a name="rak19007"></a>
 ### RAK19007 Board (Preperation)
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_233421.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_234127.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_234336.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_234449.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_234546.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_234559.jpg.png?raw=true)
 <a name="rakassembly"></a>
 ### Rack Assembly (RAK Board)
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_234718.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_234738.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_234758.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_234853.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_235142.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_235216.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_235222.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_235254.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250205_235953.jpg.png?raw=true)
 <a name="wiring"></a>
 ### Power Supply Wiring
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_000453.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_000536.jpg.png?raw=true)
 <a name="battery"></a>
 ### Battery Placement
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_000607.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_000726.jpg.png?raw=true)
 <a name="topcover"></a>
 ### Top Cover Assembly
 [Back](#top)</br></br>
-Work in progress
+Work in progress</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_000800.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_000913.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_001454.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_001552.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_001750.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_002131.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_002225.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_002303.jpg.png?raw=true)</br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Assembly/img_20250206_002706.jpg.png?raw=true)
