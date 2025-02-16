@@ -14,11 +14,10 @@ Fully assembled, the case features:
 * USB-C fast charging
 * Battery status indicator
 ##### Table of Contents  
-[Headers](#headers)  
+[Files](#Files)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>
-## Headers
+<a name="Files"/>
 ## Files
 * Case_Bottom
 * Case_Bottom_noPogopin
