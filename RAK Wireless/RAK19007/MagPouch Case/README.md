@@ -19,12 +19,18 @@ Fully assembled, the case features:
 ...snip...    
 <a name="Files"/>
 ## Files
-* Case_Bottom
-* Case_Bottom_noPogopin
-* Case_Top
-* Case_Top_NoBatteryIndicator
-* Rack_RAK19007+GPS+BT
-* Rack_TC4056+Qi-Charger
+* Case_Bottom</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Bottom_01.jpg)
+* Case_Bottom_noPogopin</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Bottom_noPogopin_01.jpg)
+* Case_Top</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Top_01.jpg)
+* Case_Top_NoBatteryIndicator</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Case_Top_noBatteryIndicator_01.jpg)
+* Rack_RAK19007+GPS+BT</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Rack_RAK19007%2BGPS%2BBT_01.jpg)
+* Rack_TC4056+Qi-Charger</br></br>
+![](https://github.com/audiocustoms/LoRa-Transceiver-Case/blob/main/RAK%20Wireless/RAK19007/MagPouch%20Case/Pics/Model/Rack_TC4056%2BQi-Charger.jpg)
 
 # This site is Work-In-Progress
 
