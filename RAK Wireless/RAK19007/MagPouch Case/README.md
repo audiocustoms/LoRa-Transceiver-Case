@@ -19,7 +19,7 @@ Fully assembled, the case features:
 ##### Table of Contents  
 [Files](#Files)  
 [Emphasis](#emphasis)  
-...snip...    
+   
 <a name="Files"/>
 ## Files
 
